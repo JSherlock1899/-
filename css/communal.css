@@ -1,0 +1,156 @@
+*{
+  margin:0 auto;
+  padding: 0 auto;
+}
+
+a{
+  text-decoration: none;
+}
+
+li{
+  list-style: none;
+}
+
+/* ------------header---------------- */
+.header{
+  width: 100%;
+  height: 50px;
+  background: white;
+}
+
+
+.logo{
+  width: 20%;
+  float: left;
+  margin-left: 150px;
+  position: absolute;
+}
+.nav{
+  width: 80%;
+}
+
+.nav_list{
+  width: 100%;
+  margin:0 auto;
+  height: 50px;
+  position: relative;
+  margin-left: 200px;
+}
+.nav_list li{
+  float: left;
+  margin-left: 100px;
+  line-height: 50px;
+  font-family: 方正博雅宋_GBK;
+  font-size: 18px;
+}
+
+.nav_list li a{
+  color: black;
+}
+
+.nav_list a:hover,.nav_list a:active{
+  color: #ff3300;
+}
+
+.nowseting{
+  color: red !important;
+}
+
+.logo_img{
+  width: 100px;
+  height: 50px;
+}
+/* -----------footer----------------- */
+.footer{
+  width: 1920px;
+  height: 700px;
+  background: #1b1b1b;
+}
+
+.footer_list{
+  width: 300px;
+  height: 400px;
+  float: left;
+  margin-top: 100px;
+  margin-left: 150px;
+}
+
+.footer_list li {
+  margin-bottom: 20px;
+  color: #fff;
+}
+
+
+.footer_list li a{
+  color: #999;
+}
+
+.footer_qr{
+  width: 500px;
+  height: 200px;
+  float: left;
+  margin-top: 150px;
+  text-align: center;
+}
+
+.footer_qr a{
+  margin-bottom: 50px;
+  color: #999;
+}
+
+.footer_img{
+  margin-top: 20px;
+}
+
+.footer_img img{
+  width: 150px;
+  height: 150px;
+}
+
+.footer_phone{
+  clear: both;
+  width: 800px;
+  margin: 0 auto;
+  margin-top: 0;
+  height: 100px;
+  text-align: center;
+  color: #999;
+}
+
+.footer_line{
+  height: 1px;
+  background-color: #000;
+  border: 0.5px solid #000;
+}
+
+.footer_copyright{
+  width: 500px;
+  height: 100px;
+  margin-left: 100px;
+  letter-spacing: 3px;
+  color: #999;
+  float: left;
+}
+
+.footer_stat{
+  width: 200px;
+  height: 100px;
+  margin-right: 200px;
+  color: #999;
+}
+
+.footer_stat a{
+  color: #999;
+}
+
+.footer_title{
+  font-weight: 900;
+  padding-bottom: 50px;
+}
+/* ---------回到顶部---------- */
+#abtn{
+   position: fixed;
+   bottom: 100px;
+   right: 50px;
+   display: none;
+}

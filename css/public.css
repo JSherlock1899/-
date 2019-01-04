@@ -1,0 +1,78 @@
+﻿@charset "utf-8";
+/* CSS Document */
+/*css重置*/
+*{margin:0;padding: 0;}
+body{margin: 0 auto;} /*body居中*/
+li{float: left;}
+a{text-decoration: none; color: #333;} /*去除a标签的下划线以及字体颜色*/
+ul{list-style: none;margin: 0; padding: 0;}/*去掉列表前的点*/
+img{display: block;}
+h1,h2,h3,h4,h5{margin: 0; font-size: 1em; font-weight: normal;}
+
+.header{
+  width: 100%;
+  height: 50px;
+  background: white;
+}
+
+
+.logo{
+  width: 20%;
+  float: left;
+  margin-left: 150px;
+  position: absolute;
+}
+.nav{
+  width: 80%;
+}
+
+.nav_list{
+  width: 100%;
+  margin:0 auto;
+  height: 50px;
+  position: relative;
+  margin-left: 420px;
+}
+.nav_list li{
+  float: left;
+  margin-left: 100px;
+  line-height: 50px;
+  font-family: 方正博雅宋_GBK;
+  font-size: 18px;
+}
+
+.nav_list li a{
+  color: black;
+}
+
+.nav_list a:hover,.nav_list a:active{
+  color: #ff3300;
+}
+
+.nowseting{
+  color: red !important;
+}
+
+.logo_img{
+  width: 100px;
+  height: 50px;
+}
+
+
+/*底部*/
+.dibu_box{height: 650px;width: 1920px;background-color: #222;padding-top: 40px;}
+.dibu_neirong{width: 1400px;height: 340px;margin: 0 auto;padding-top: 60px;line-height: 30px;}
+.jianjie,.xinwen{width: 80px;color:#666;float: left;margin-right: 360px;}
+.lianjie{width: 80px;color:#666;float: left;margin-right: 260px;}
+.guanzhu{width: 180px;color:#666;float: left;}
+.guanzhu h3{padding-left: 50px;}
+.dibu_code{width:180px;height: 180px;}
+.dibu_neirong h3{font-size: 18px;padding-bottom: 30px;}
+
+.heixian{width: 1920px;height: 1px;background-color:#111;}
+
+.rexian{width: 1400px;height: 30px;margin: 30px auto; text-align: center;color: #666;}
+
+.banquan{width: 1400px; margin: 0 auto;color: #666;padding-top: 20px;}
+.banquan_left{float: left;}
+.banquan_right{float:right;}

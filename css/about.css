@@ -1,0 +1,92 @@
+/* -----------banner------------- */
+.banner{
+  width: 1920px;
+  height: 800px;
+}
+
+.banner img{
+  width: 1920px;
+  height: 800px;
+}
+
+/* ---------------about--------------------- */
+.about_box{
+  width: 1920px;
+  height: 1080px;
+}
+
+
+
+.about_img {
+  width: 300px;
+  margin: 0 auto;
+}
+
+.about_img img{
+  margin-top: 300px;
+}
+
+.about_title{
+  width: 600px;
+  margin: 0 auto;
+  margin-top: 30px;
+}
+
+.about_title h2{
+  text-align: center;
+  font-family: 方正博雅宋_GBK;
+  font-size: 28px;
+  letter-spacing: 2.5px;
+}
+
+.about_main{
+  width: 800px;
+  margin: 0 auto;
+  overflow: visible;
+  font: 20px  方正博雅宋_GBK;
+  letter-spacing: 2px;
+  margin-top: 35px;
+}
+
+.about_button{
+  width: 400px;
+  margin: 0 auto;
+  margin-top: 50px;
+}
+
+
+/* -------------------audio--------------------- */
+.audio_box{
+  width: 1920px;
+  height: 1080px;
+  background: url(../images/首页_07.png) no-repeat;
+}
+
+/* ------------------------culture-------------------- */
+.culture{
+  width: 1920px;
+  height: 1080px;
+  background: url(../images/追求1_02.png) no-repeat;
+}
+
+
+.culture_main{
+  width: 1200px;
+  height: 800px;
+  padding-top: 300px;
+  margin: 0 auto;
+}
+
+.culture_main_branch1{
+  margin-top: 500px;
+}
+
+.culture_main_branch{
+  text-align: center;
+  width: 1200px;
+  margin: 0 auto;
+  overflow: visible;
+  font: 30px  微软雅黑;
+  letter-spacing: 2px;
+  padding-top: 50px;
+}

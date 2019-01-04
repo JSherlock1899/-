@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+/*关于我们*/
+.about{width: 1400px; margin: 0 auto;}
+.about_box{width: 1920px;height: 680px;}
+.about .biaoti{padding-top: 80px; margin-left: auto;margin-right: auto;}
+.about h1{margin-top: 30px;margin-left: auto;margin-right: auto;width: 600px;font-family: "方正小标宋_GBK";text-align: center;font-size: 30px;}
+.about p{margin-top: 30px;margin-left: auto;margin-right: auto;width: 960px;font-family: "微软雅黑";text-align: center;}
+.anniu{margin: 0 auto;margin-top: 90px;}
+
+
+/*产品中心*/
+.lianxi{width: 1400px; margin: 0 auto;padding-top: 40px;}
+.lianxi_box{width: 1920px;}
+.lianxi_box .biaoti{padding-top: 80px; margin-left: auto;margin-right: auto;}
+.lianxi .left{float: left;}
+.lianxi .right{float:right;}
+.lianxi h1{text-align:left;padding-top: 24px;font-family: "微软雅黑"; font-size: 36px;color: #333;}
+
+.lianxi h2{text-align:left;padding-top: 18px;font-family: "微软雅黑"; font-size: 18px;color: #666;margin-bottom: 30px;line-height: 50px;}
+
+

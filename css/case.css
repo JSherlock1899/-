@@ -1,0 +1,45 @@
+@charset "utf-8";
+/* CSS Document */
+/*关于我们*/
+.about{width: 1400px; margin: 0 auto;}
+.about_box{width: 1920px;height: 680px;}
+.about .biaoti{padding-top: 80px; margin-left: auto;margin-right: auto;}
+.about h1{margin-top: 30px;margin-left: auto;margin-right: auto;width: 600px;font-family: "方正小标宋_GBK";text-align: center;font-size: 30px;}
+.about p{margin-top: 30px;margin-left: auto;margin-right: auto;width: 960px;font-family: "微软雅黑";text-align: center;}
+.anniu{margin: 0 auto;margin-top: 90px;}
+
+/*视频宣传*/
+.shipin_box .biaoti{padding-top: 0px; margin-left: auto;margin-right: auto; padding-bottom: 130px;}
+
+/*案例*/
+.anli{margin: 0 auto;width: 1400px;}
+.anli img{margin-top: 240px;}
+.anli .anniu{margin: 0 auto;margin-top: 80px;}
+
+/*合作企业*/
+.hezuo_box{width: 1920px;height:700px;}
+.hezuo{margin: 0 auto;width: 1400px;}
+.hezuo .biaoti{margin: 0 auto;padding-top:70px; }
+.hezuo p{text-align: center;font-family: "方正大黑简体";font-size: 42px;line-height: 68px;padding-top: 40px;}
+.hezuo_img{width: 800px;height: 200px;margin: 0 auto; margin-left: 550px;}
+/*底部*/
+.dibu_box{height: 650px;width: 1920px;background-color: #222;padding-top: 80px;}
+.dibu_neirong{width: 1400px;height: 340px;margin: 0 auto;padding-top: 130px;line-height: 30px;}
+.jianjie,.xinwen,.lianjie,.guanzhu{width: 80px;color:#FFFFFF;float: left;margin-right: 360px;}
+.guanzhu{margin-right: 0;}
+.dibu_neirong h3{font-size: 18px;padding-bottom: 30px;}
+
+.heixian{width: 1920px;height: 1px;background-color: #000000;}
+
+.rexian{width: 1400px;height: 30px;margin: 30px auto; text-align: center;color: #666;}
+
+.banquan{width: 1400px; margin: 0 auto;color: #666;padding-top: 20px;}
+.banquan_left{float: left;}
+.banquan_right{float:right;}
+
+/*产品中心*/
+.case{width: 1920px; margin: 0 auto;}
+.case_box{width: 1920px;height: 1700px;}
+.case_box .biaoti{padding-top: 100px; margin-left: auto;margin-right: auto;}
+.case{padding-top: 40px;}
+.top img{float: left;}
